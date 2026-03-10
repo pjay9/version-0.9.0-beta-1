@@ -187,12 +187,6 @@ This is an academic project. For contributions or questions, please contact the 
 - [Google Gemini API](https://ai.google.dev/docs)
 - [MobileNetV2 Architecture](https://arxiv.org/abs/1801.04381)
 
-## 📧 Contact
-
-For inquiries about this project, please contact:
-- **Project Lead**: Tejas Dhawale (tejasdhawale145@gmail.com)
-- **Supervisor**: Dr. Suvarna Joshi (suvarna.joshi@mituniversity.edu.in)
-
 ---
 
 **Version**: 0.9.0-beta-1  
