@@ -190,5 +190,5 @@ This is an academic project. For contributions or questions, please contact the 
 ---
 
 **Version**: 0.9.0-beta-1  
-**Last Updated**: 2024  
+**Last Updated**: 2026  
 **Status**: Active Development
