@@ -378,6 +378,6 @@ After successful setup:
 
 ---
 
-**Last Updated**: 2024  
+**Last Updated**: 2026 
 **Maintained by**: Gen-AR Mechanic Development Team
 
